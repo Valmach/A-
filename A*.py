@@ -2,15 +2,7 @@
 # User Instructions:
 #
 # Modify the the search function so that it becomes
-# an A* search algorithm as defined in the previous
-# lectures.
-#
-# Your function should return the expanded grid
-# which shows, for each element, the count when
-# it was expanded or -1 if the element was never expanded.
-#
-# If there is no path from init to goal,
-# the function should return the string 'fail'
+# an A* search algorithm  to get the robot|car to move
 # ----------
 
 grid = [[0, 1, 0, 0, 0, 0],
